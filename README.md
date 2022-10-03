@@ -1,3 +1,14 @@
 # python-maze-bfs
 
-execute -> python Maze.py
+## 必要なライブラリ
+
+### 特になし
+
+
+## 実行
+
+### コマンド
+
+~~~
+python Maze.py
+~~~
